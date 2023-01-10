@@ -5,7 +5,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/LeroZinho666/)
 
 ![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoPSilva1&show_icons=true&theme=synthwave)
-
+ 
   ## Tecnologias que estou Aprendendo!
 
   <div style="display: inline_block"><br/>
@@ -18,3 +18,6 @@
 
   Apaixonado por Tecnologia
 
+## lingua de programação mais usada!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPSilva1)](https://github.com/anuraghazra/github-readme-stats) 
