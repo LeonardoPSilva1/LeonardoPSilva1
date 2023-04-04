@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab3ed8&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00cbcc&size=35&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Leonardo+Pereira+da+Silva;Eu+Tenho+17+anos;+E+Sou+do++Brasil,+SP;Eu+Estudo+Desenvolvimento+de++Sistemas+Na+ETEC;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
@@ -39,4 +39,4 @@
 <br></div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab3ed8&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
